@@ -38,7 +38,7 @@
 **Whisky** è un robot esapode a 6 zampe con 18 gradi di libertà, progettato e costruito interamente da zero.
 Il telaio è stampato in 3D con filamento **PLA** a partire da modelli personalizzati realizzati in [OnShape](https://www.onshape.com/), e il cervello del robot è un microcontrollore **ESP32-C3 Zero**.
 
-Il progetto nasce con l'obiettivo di esplorare algoritmi di locomozione, cinematica inversa e movimento autonomo su hardware embedded a basso costo.
+Il progetto nasce con l'obiettivo di esplorare algoritmi di locomozione, cinematica inversa e movimento autonomo su hardware embedded con un budget estremamente basso (40€).
 
 ---
 
