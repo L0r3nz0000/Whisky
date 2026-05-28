@@ -1,9 +1,8 @@
-- 1x microcontrollore esp32-c3
-- 1x sensore IMU mpu6050
+- 1x microcontrollore esp32-c3 zero
 - 2x driver servo 16 canali
 - 2x step down UBEC 6v 5A (alimentazione driver motori, uno per driver)
 - 1x step down converter 5v 1A (alimentazione logica)
 - 2x batterie 18650
-- 1x pacco batterie
+- 1x pacco batterie 2S 10.000 mah
 - 18x servo motori mg90s
 
