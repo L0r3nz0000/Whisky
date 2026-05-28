@@ -1,8 +1,3 @@
-timeline:
-20 agosto inizio
-22 agosto fine zampe
-23 agosto bozza parte centrale + slot componenti
-
 - 1x microcontrollore esp32-c3
 - 1x sensore IMU mpu6050
 - 2x driver servo 16 canali
