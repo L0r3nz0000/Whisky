@@ -1,8 +1,6 @@
 <div align="center">
+# <img src="images/whisky_icon.png" alt="Whisky icon" width="60" valign="middle"/> Whisky
 
-<img src="images/whisky_icon.png" alt="Whisky icon" width="80"/>
-
-# Whisky
 
 ### Robot esapode autonomo — 18 GdL · ESP32-C3 Zero · Stampa 3D
 
